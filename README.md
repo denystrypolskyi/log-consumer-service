@@ -1,3 +1,5 @@
+# Log Consumer Service
+
 This microservice listens to Kafka topics and consumes log messages related to orders and products. It processes and handles logs emitted by other services for monitoring or debugging purposes.
 
 ## 🚀 Features
